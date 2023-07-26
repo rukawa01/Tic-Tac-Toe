@@ -1,0 +1,9 @@
+.example{
+    text-align : center;
+}
+.tic-tac{
+    position: fixed;
+    top: 25%; left: 50%; 
+    align-items: center ;
+
+}
